@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jacons
+- 👀 I’m interested in Machine learning, Deep learning, Data mining ecc.
+- 🌱 I’m currently learning NLP, Time series analysis & pytorch framework
+- 📫 How to reach me ... a.iommi2@studenti.unipi.it
