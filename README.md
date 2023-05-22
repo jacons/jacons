@@ -6,8 +6,9 @@
 - 🎓 I got a bachelor's degree in [Informatica](https://www.unipi.it/index.php/lauree/corso/10298)  
   
 
-- 🔭 Fascinated by Machine Learning, Natural Language Processing and Deep & Reinforcement Learning   
-  
+- 🔭 Fascinated by Natural Language Processing and Continual, Deep & Reinforcement Learning 
+ 
+- Actually I have started the master degree thesis in explainability and fair ranking  
 
 <br/>  
 
