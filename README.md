@@ -1,14 +1,12 @@
 # **Hello World! 👋 I'm Andrea!**  
 
-- 📚 I'm currently studying [Artificial Intelligence](https://www.unipi.it/index.php/lauree/corso/10436) at University of Pisa, in Italy  
+- 📚 I've studied [Artificial Intelligence](https://www.unipi.it/index.php/lauree/corso/10436) at University of Pisa, in Italy  
   
-
 - 🎓 I got a bachelor's degree in [Informatica](https://www.unipi.it/index.php/lauree/corso/10298)  
   
-
 - 🔭 Fascinated by Natural Language Processing and Continual, Deep & Reinforcement Learning 
  
-- Actually I have started the master degree thesis in explainability and fair ranking  
+- Actually, I'm working in explainability with University of Pisa 
 
 <br/>  
 
