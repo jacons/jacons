@@ -1,6 +1,6 @@
 # **Hello World! 👋 I'm Andrea!**  
 
-🚀 AI Researcher | PhD in Generative & Explainable AI | Deep Learning & NLP Enthusiast
+🚀 AI Researcher | PhD in Explainable AI | Deep Learning & NLP Enthusiast
 
 With a Master’s degree in Artificial Intelligence and currently pursuing a PhD in Generative and Explainability AI, I’m deeply fascinated by the challenges of Deep Learning, Continuous Learning, and Natural Language Processing. My passion for AI comes from its incredible ability to learn from data and adapt to new information, constantly evolving just like the technology itself.
 
